@@ -10,4 +10,4 @@ The R data files can be downloaded here.
 
 # Examples
 Below is an example of the vignette used to generate the plots showing all the cells in the scRNA-seq dataset.
-![All_Cells](https://github.com/mafeiyang/leprosy_amg_network/blob/main/Vignettes/test12.pdf)
+![All_Cells_Example](https://github.com/mafeiyang/leprosy_amg_network/blob/main/Vignettes/example.png)
