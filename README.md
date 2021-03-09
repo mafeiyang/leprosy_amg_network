@@ -10,7 +10,7 @@ The R scripts are saved in the "Rscripts" folder.
 The R data files can be downloaded [here.](https://drive.google.com/drive/folders/10rnX0DHHvukS3evpw9zE9TrycusBtNoT?usp=sharing)
 
 ## Examples
-Below is an example of showing the beggning of the vignette used to generate the plots showing all the cells in the scRNA-seq dataset.
+Below is an example showing the beggning of the vignette used to generate the plots with all the cells in the scRNA-seq dataset.
 
 
 ![All_Cells_Example](https://github.com/mafeiyang/leprosy_amg_network/blob/main/Vignettes/example1.png)
