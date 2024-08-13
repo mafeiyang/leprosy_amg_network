@@ -7,7 +7,7 @@ Granulomas are complex cellular structures comprised predominantly of macrophage
 We share the scripts and R data files used to generate the figures for the manuscript. <br/>
 The codes are implemented in vignettes to show the results of running these scripts. The Vignettes are saved in the "Vignettes" folder as html files. These html files can be downloaded to local computer as viewed as offline websites. <br/>
 The R scripts are saved in the "Rscripts" folder. 
-The R data files can be downloaded [here.](https://drive.google.com/drive/folders/10rnX0DHHvukS3evpw9zE9TrycusBtNoT?usp=sharing)
+The R data files can be downloaded [here.](https://ucla.box.com/s/etjdh96rbix66dwrbm7dn18b26rvtu65)
 
 ## Examples
 Below is an example showing the beggning of the vignette used to generate the plots with all the cells in the scRNA-seq dataset.
